@@ -1,0 +1,32 @@
+main{
+  
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    grid-gap: 0px  ;
+
+    
+}
+
+
+
+app-square{
+    color: darkred;
+    height: 200px;
+    border: 1px gray solid;
+    text-align: center;
+    padding-top: 20px;
+}
+
+h1{
+    color: darkred
+}
+
+button{
+    margin-bottom: 10px;
+    background-color: darkslategray;
+    color: white;
+}
+
+h2{
+    color: purple;
+}

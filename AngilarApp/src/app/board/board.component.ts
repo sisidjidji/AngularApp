@@ -9,6 +9,7 @@ export class BoardComponent implements OnInit {
 squares:any[];
 xIsNext: boolean;
 winner:string;
+
   constructor() { }
 
   ngOnInit(): void {
